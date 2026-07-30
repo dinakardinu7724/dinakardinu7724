@@ -1,149 +1,266 @@
 <div align="center">
 
-# Hi 👋 I'm Dinakar
+# Hi 👋, I'm Dinakar
 
-### Full Stack Developer • Python Backend • React • AWS
+### Full Stack Developer | Python Backend Developer | React Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;React+%7C+TypeScript+Developer;FastAPI+%7C+PostgreSQL;Docker+%7C+AWS+Learner;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Full+Stack+Developer;React+%7C+FastAPI+%7C+PostgreSQL;Docker+%7C+AWS+Learner;Always+Building+Something+New" />
+
+<br>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=dinakardinu7724&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Computer Science graduate passionate about building scalable full-stack applications.
+💻 Passionate Full Stack Developer specializing in building scalable web applications.
 
-I enjoy designing clean backend architectures, building responsive frontends, and continuously learning cloud technologies.
+⚙️ I enjoy designing clean backend architectures using **FastAPI**, creating modern UIs with **React**, and continuously improving my cloud and DevOps skills.
 
-Currently focused on:
+🌱 Currently learning
 
-- ⚡ FastAPI
-- ⚛ React + TypeScript
-- 🐘 PostgreSQL
-- ☁ AWS
-- 🐳 Docker
-- 📦 System Design
+- Advanced FastAPI
+- AWS Cloud
+- Docker
+- CI/CD
+- System Design
+- Microservices
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
 </p>
 
-### Frontend
+**Python • TypeScript • JavaScript • HTML5 • CSS3**
+
+---
+
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind,bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
 </p>
 
-### Backend
+**React • TypeScript • Vite • Material UI • Tailwind CSS • Shadcn/UI • Redux Toolkit • RTK Query**
+
+---
+
+## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+
 </p>
 
-### Database
+**Python • FastAPI • REST APIs • SQLAlchemy • JWT Authentication**
+
+---
+
+## 🗄️ Database
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
 </p>
 
-### Cloud & DevOps
+**PostgreSQL • MongoDB**
+
+---
+
+## ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode" />
+
 </p>
+
+**AWS • Docker • Git • GitHub • Postman • VS Code**
+
+---
+
+## 🏗️ Development Practices
+
+- Component-Based Architecture
+- Responsive Web Design
+- REST API Development
+- Authentication & Authorization (JWT)
+- Clean Code
+- Git Workflow
+- Modular Architecture
+- Scalable Application Design
 
 ---
 
 # 📌 Featured Projects
 
-### 🛒 Full Stack Ecommerce
+## 🛒 Full Stack E-Commerce
 
-> React • TypeScript • FastAPI • PostgreSQL • Docker • AWS
+A modern e-commerce platform built with **React, TypeScript, FastAPI, PostgreSQL, Docker, AWS**.
 
-✔ JWT Authentication
+### Features
 
-✔ Product Management
+- JWT Authentication
+- Product Management
+- Shopping Cart
+- Order Management
+- Responsive UI
+- REST APIs
+- PostgreSQL Database
+- Clean Architecture
 
-✔ Shopping Cart
+## 🏡 TSA Studios Website
 
-✔ Orders
+A modern and responsive interior design portfolio website focused on clean UI, smooth user experience, and performance.
 
-✔ Responsive UI
+### 🚀 Highlights
+
+- ✨ Modern Responsive Design
+- ⚛️ React + TypeScript
+- 🎨 Material UI
+- 🧩 Shadcn/UI
+- 📱 Mobile Friendly
+- ⚡ Fast Performance
+
+### 🛠️ Tech Stack
+
+`React` • `TypeScript` • `Material UI` • `Shadcn/UI` • `Git`
+
+### 🔗 Live Demo
+
+<a href="https://tsastudios.dinakardinu72.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Website-2563EB?style=for-the-badge"/>
+</a>
+
+### 📂 Repository
+
+<a href="https://github.com/dinakardinu7724/YOUR_REPO_NAME" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-### 🏡 TSA Studios Website
+## 🌐 Shadow Browser
 
-Modern portfolio website
-
-React + TypeScript + Bootstrap + Shadcn/UI
+A lightweight browser developed using **.NET MAUI** featuring modern UI and cross-platform support.
 
 ---
 
-### 🌐 Shadow Browser
+# 📊 GitHub Analytics
 
-Cross-platform browser built using .NET MAUI
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=dinakardinu7724&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinakardinu7724&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinakardinu7724&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🌱 Currently Learning
+# 📈 Contribution Graph
 
-- Advanced FastAPI
-- Docker
-- AWS Deployment
-- CI/CD
-- Microservices
-- System Design
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinakardinu7724&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🤝 Connect with Me
+# 🌟 Currently Working On
 
-<p>
+- 🚀 Full Stack E-Commerce Platform
+- ⚙️ Backend APIs with FastAPI
+- ☁️ AWS Cloud Deployment
+- 🐳 Dockerized Applications
+- 📦 Scalable Full Stack Architecture
 
-<a href="https://github.com/dinakardinu7724">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+---
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+# 🎯 Goals for 2026
+
+- ✅ Master FastAPI
+- ✅ Master React Ecosystem
+- ✅ Learn Advanced AWS
+- ✅ Build Production-Level Projects
+- ✅ Improve System Design Skills
+- ✅ Contribute to Open Source
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
 
 <a href="mailto:dinakaradn369@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/dinakara-dn-956a06285/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dinakardinu7724">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📧 **dinakaradn369@gmail.com**
+
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/dinakara-dn-956a06285/
+
+💻 **GitHub**  
+https://github.com/dinakardinu7724
+
+🌐 **Portfolio** *(Coming Soon)*
+
+</div>
 
 ---
 
 <div align="center">
 
-### "Build. Learn. Improve. Repeat."
+## 💭 Quote
+
+> **"Code with purpose. Learn continuously. Build solutions that make an impact."**
+
+⭐ If you like my work, consider starring my repositories!
 
 </div>
