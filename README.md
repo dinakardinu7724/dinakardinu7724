@@ -8,9 +8,7 @@
 
 <br>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=dinakardinu7724&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
-</p>
+
 
 </div>
 
