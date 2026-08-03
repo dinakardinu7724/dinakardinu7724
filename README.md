@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Dinakar
+# Hi, I'm Dinakar
 
 ### Full Stack Developer | Python Backend Developer | React Developer
 
