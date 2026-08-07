@@ -242,7 +242,8 @@ A lightweight browser developed using **.NET MAUI** featuring modern UI and cros
 📧 **dinakaradn369@gmail.com**
 
 🔗 **LinkedIn**  
-https://www.linkedin.com/in/dinakara-dn-956a06285/
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dinakara-dn-956a06285" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/dinakara-dn-956a06285?trk=profile-badge">Dinakara DN</a></div>
+              
 
 💻 **GitHub**  
 https://github.com/dinakardinu7724
